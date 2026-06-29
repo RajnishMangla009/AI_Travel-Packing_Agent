@@ -92,7 +92,15 @@ Real AI-generated packing plans
 
 ## 📸 Screenshots
 
-<!-- Add images here -->
+<img width="1914" height="911" alt="Image" src="https://github.com/user-attachments/assets/672ba7c1-fa40-41ce-847f-60af800a4b5f" />
+
+
+
+<img width="1794" height="2317" alt="Image" src="https://github.com/user-attachments/assets/630d5ce2-48b7-4f9b-8dbe-4e557627509e" />
+
+
+
+<img width="1887" height="902" alt="Image" src="https://github.com/user-attachments/assets/b7abacd8-6486-4d54-96ac-b5a315a5a8a2" />
 
 ---
 
