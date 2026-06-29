@@ -102,6 +102,9 @@ Real AI-generated packing plans
 
 <img width="1887" height="902" alt="Image" src="https://github.com/user-attachments/assets/b7abacd8-6486-4d54-96ac-b5a315a5a8a2" />
 
+
+<img width="1794" height="3453" alt="Image" src="https://github.com/user-attachments/assets/c788eea2-6ba9-4bae-8889-2cfc00b8e2d5" />
+
 ---
 
 ## 🎥 Demo Video
