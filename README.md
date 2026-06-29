@@ -1,16 +1,128 @@
-# React + Vite
+# ✈️ AI Travel Packing Agent
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+An intelligent, dual-mode AI agent that generates optimized travel packing plans using both deterministic reasoning and real-time generative AI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+## 🚀 Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The AI Travel Packing Agent is designed to solve a real-world problem:
+**"What should I pack for my trip?"**
 
-## Expanding the Oxlint configuration
+It combines:
+- 🧠 Simulated Agent Reasoning (No API Mode)
+- 🌐 Real-Time AI (API Mode)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+This ensures:
+
+✅ Reliability without external dependencies  
+✅ Scalability with real AI models  
+
+
+---
+
+
+
+## ⚙️ Key Features
+
+### 🧩 Dual-Mode Intelligence
+
+#### 🔹 Demo Mode (No API Required)
+- Works fully offline
+- Uses structured reasoning pipeline
+- Simulates intelligent decision-making
+- Handles constraints like long-duration trips
+
+#### 🔹 API Mode (User-Provided Key)
+- Supports real AI models (Gemini 2.5 Flash, etc)
+- Unlimited destinations
+- Dynamic and contextual planning
+
+---
+
+### 🧠 Agentic Reasoning Pipeline
+
+The system follows a step-by-step reasoning flow:
+
+1. Input Analysis  
+2. Context Classification  
+3. Weather & Environment Modeling  
+4. Activity Mapping  
+5. Risk Assessment  
+6. Packing Optimization  
+
+Each step is visualized through an **animated logic terminal UI**.
+
+---
+
+### ⚡ Smart Constraint Handling
+
+- Applies real-world assumptions (e.g., laundry cycles)
+- Maintains logical consistency in all scenarios
+
+---
+
+### 🔐 Security & Privacy
+
+- API keys are never stored
+- All processing happens client-side
+- No backend dependency
+
+---
+
+## 🖥️ Tech Stack
+
+- ⚛️ React + Vite
+- 🎨 Modern UI with responsive components
+- 🤖 Gemini API (optional)
+- 🧠 Custom reasoning engine (simulation mode)
+
+---
+
+## 🎬 Demo
+
+### 🟢 Demo Mode (No API)
+Simulated reasoning with animated logs
+
+### 🔵 API Mode
+Real AI-generated packing plans
+
+---
+
+## 📸 Screenshots
+
+<!-- Add images here -->
+
+---
+
+## 🎥 Demo Video
+
+<!-- Add demo video link -->
+
+---
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/your-username/ai-travel-packing-agent.git
+cd ai-travel-packing-agent
+npm install
+npm run dev
+```
+
+---
+
+## 👨‍💻 Author
+
+**Rajnish Mangla**  
+
+> Built with curiosity, creativity, and a strong focus on agentic AI systems.
+
+
+---
+## 🙏 Acknowledgements
+
+This project was inspired by concepts learned during the Vibe Coding program, which helped shape the development approach and system design.
+
+---
